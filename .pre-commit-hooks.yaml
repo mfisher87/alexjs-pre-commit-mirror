@@ -7,5 +7,5 @@
     'types': [text]
     args: []
     require_serial: false
-    additional_dependencies: ["alex@1.5.0"]
+    additional_dependencies: ["alex@1.6.0"]
     minimum_pre_commit_version: '0'
