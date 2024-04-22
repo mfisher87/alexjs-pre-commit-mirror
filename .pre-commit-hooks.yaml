@@ -1,0 +1,11 @@
+-   id: alex
+    name: alex
+    description: "Check files to 'find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.'"
+    entry: alex
+    language: node
+    exclude: ".pre-commit-config.yaml"
+    'types': [text]
+    args: []
+    require_serial: false
+    additional_dependencies: ["alex@1.0.0"]
+    minimum_pre_commit_version: '0'
