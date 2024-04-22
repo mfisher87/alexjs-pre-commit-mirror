@@ -22,3 +22,11 @@ your existing `pre-commit` configuration from the previous step:
 * [The official pre-commit GitHub action](https://github.com/pre-commit/action): :rock:
   Very stable
 * [pre-commit.ci](https://pre-commit.ci): :zap: Faster, but has more frequent outages.
+
+
+## Troubleshooting
+
+
+### I ignored a file in `.alexignore` but `pre-commit` is still failing
+
+See this issue: <https://github.com/get-alex/alex/issues/348>
