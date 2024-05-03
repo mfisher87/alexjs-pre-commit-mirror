@@ -1,6 +1,6 @@
 -   id: alex
     name: alex
-    description: ''
+    description: "Check files to 'find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.'"
     entry: alex
     language: node
     exclude: ".pre-commit-config.yaml"
